@@ -34,6 +34,6 @@ Système distribué de détection d'intrusions utilisant l'architecture master-w
 
 1. **Cloner le dépôt**
 ```bash
-git clone [URL_DU_DEPOT]
+git clone https://github.com/fadoua-yakoubi/distributed-log-analyzer
 cd bert_log_detector
 
